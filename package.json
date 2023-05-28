@@ -1,6 +1,6 @@
 {
   "name": "my-money",
-  "homepage":"http://deepak-iiitr.github.io/my-money",
+  "homepage": "http://deepak-iiitr.github.io/my-money",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
